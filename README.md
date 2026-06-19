@@ -60,4 +60,4 @@ Roles where complex data systems meet real-world operational decisions — acros
 
 ---
 
-📍 Houston, TX  |  [LinkedIn](https://linkedin.com/in/anujkaliraman/)  |  📧 anujkaliraman@email.com
+📍 Dallas, TX  |  [LinkedIn](https://linkedin.com/in/anujkaliraman/)  |  📧 anujkaliraman@email.com
