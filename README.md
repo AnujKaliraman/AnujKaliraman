@@ -15,9 +15,9 @@ Data & AI Engineer building production-grade pipelines, LLM-powered systems, and
 
 ## What I build
 
-I specialize in data systems where correctness and scale both matter — settlement engines that reconcile millions of dollars of transactions, medallion lakehouses that serve both operational and analytical consumers, and AI agents grounded in domain-specific knowledge.
+I specialize in data systems where correctness, scale, and traceability all matter — retrieval pipelines that ground LLM answers in cited source documents, vector databases that power real-time recommendations, and cloud infrastructure hardened for security and scale under load.
 
-My background spans energy markets, but the problems I solve — real-time pricing, time-series anomaly detection, multi-source data reconciliation — appear across finance, logistics and infrastructure.
+My background spans energy markets, but the problems I solve — semantic search and retrieval, multi-source data reconciliation, real-time pipeline orchestration — appear across finance, logistics, and infrastructure.
 
 ---
 
