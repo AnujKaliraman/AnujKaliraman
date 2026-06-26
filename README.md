@@ -23,7 +23,7 @@ My background spans energy markets, but the problems I solve — semantic search
 
 ## Featured projects
 
-### Source-Linked Project Intelligence Assistant
+### Project Intelligence Assistant (RAG)
 Citation-grounded RAG system over engineering, legal, finance, and procurement documents — every answer cites its exact source file and page. Permission-aware retrieval filters by department before generation.
 `Python` `PostgreSQL/pgvector` `sentence-transformers` `Claude API` `Streamlit`
 
