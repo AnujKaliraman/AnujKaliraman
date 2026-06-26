@@ -23,18 +23,21 @@ My background spans energy markets, but the problems I solve — semantic search
 
 ## Featured projects
 
-### ERCOT/SPP Settlement Engine
-Production-grade pipeline integrating ISO nodal pricing, nodal availability metrics, and PPA contract terms into a reconciled settlement output.
-`Python` `Databricks` `Snowflake` `PySpark`
+### Source-Linked Project Intelligence Assistant
+Citation-grounded RAG system over engineering, legal, finance, and procurement documents — every answer cites its exact source file and page. Permission-aware retrieval filters by department before generation.
+`Python` `PostgreSQL/pgvector` `sentence-transformers` `Claude API` `Streamlit`
 
-### Medallion Lakehouse — Operational Time-Series Data
+### AWS Streaming Recommender Pipeline
+End-to-end batch and streaming pipeline: Glue ETL prepares training data, a PostgreSQL + pgvector database stores model embeddings, and a Kinesis/Lambda pipeline serves real-time product recommendations.
+`AWS Glue` `pgvector` `Kinesis` `Lambda` `Terraform`
+
+### AWS Well-Architected Web Application
+Security, reliability, cost, and scalability assessment of a three-tier web app — identified and remediated an open security group, validated multi-AZ failover, and load-tested auto scaling under 1M simulated requests.
+`AWS EC2` `Auto Scaling` `CloudWatch` `Apache Benchmark`
+
+### Medallion Lakehouse — Operational Time-Series Data *(in progress)*
 Bronze → Silver → Gold architecture on AWS processing high-frequency operational data for both real-time monitoring and analytical reporting.
 `dbt` `PySpark` `AWS S3` `Glue` `Athena`
-
-### Energy AI Agent *(in progress)*
-LLM-powered assistant enabling natural language queries over ERCOT market data — nodal prices, congestion zones, settlement history.
-`Claude API` `LangChain` `Python` `FastAPI`
-
 ---
 
 ## Currently
