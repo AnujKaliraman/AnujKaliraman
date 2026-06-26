@@ -56,12 +56,5 @@ Bronze → Silver → Gold architecture on AWS processing high-frequency operati
 - **Data Analytics Professional Certificate** — DeepLearning.AI *(completed May 2026)*
 ---
 
-## Open to
-
-Data Engineer · AI Engineer · Forward Deployed Engineer · Data Architect
-
-Roles where complex data systems meet real-world operational decisions — across **energy, finance, infrastructure, healthcare, or tech**.
-
----
 
 📍 Dallas, TX  |  [LinkedIn](https://linkedin.com/in/anujkaliraman/)  |  📧 anujkaliraman@email.com
