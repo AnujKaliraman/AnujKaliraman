@@ -38,6 +38,7 @@ Security, reliability, cost, and scalability assessment of a three-tier web app 
 ### Medallion Lakehouse — Operational Time-Series Data *(in progress)*
 Bronze → Silver → Gold architecture on AWS processing high-frequency operational data for both real-time monitoring and analytical reporting.
 `dbt` `PySpark` `AWS S3` `Glue` `Athena`
+
 ---
 
 ## Currently
