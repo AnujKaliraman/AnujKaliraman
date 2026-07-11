@@ -35,7 +35,7 @@ End-to-end batch and streaming pipeline: Glue ETL prepares training data, a Post
 Security, reliability, cost, and scalability assessment of a three-tier web app — identified and remediated an open security group, validated multi-AZ failover, and load-tested auto scaling under 1M simulated requests.
 `AWS EC2` `Auto Scaling` `CloudWatch` `Apache Benchmark`
 
-### Medallion Lakehouse — Operational Time-Series Data *(in progress)*
+### Medallion Lakehouse — Operational Time-Series Data
 Bronze → Silver → Gold architecture on AWS processing high-frequency operational data for both real-time monitoring and analytical reporting.
 `dbt` `PySpark` `AWS S3` `Glue` `Athena`
 
